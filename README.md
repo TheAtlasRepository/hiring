@@ -1,5 +1,5 @@
 # hiring
-Repository with home exercies, pair programming exercies and on-the-spot code challenges. 
+Repository with home exercises, pair programming exercies and on-the-spot code challenges. 
 
 ![welcome logo!](https://www.enernite.com/images/logo.svg)
 
