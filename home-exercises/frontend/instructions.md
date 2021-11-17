@@ -50,4 +50,5 @@ Ideally your solution would have some way to run locally and visualize the resul
 
 # Submitting your exercise
 
-1. See [instructions for submitting your work](https://github.com/Enernite/hiring-exercises/blob/master/README.md#general-instructions)
+1. See [instructions for submitting your work](https://github.com/Enernite/hiring/tree/main/home-exercises/README.md#general-instructions)
+
