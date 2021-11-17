@@ -27,7 +27,7 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 #### User Story: As a developer I want to
 
 * list compensation data via API `GET` request
-  * List output data
+  * List all data in the database
   * **Stretch Goal**:Filter by one or more fields/attributes (e.g. `/compensation_data?salary[gte]=120000&zip_code=11201` )
   * **Stretch Goal**:Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
 * fetch a single record via GET request
