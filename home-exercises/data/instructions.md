@@ -46,4 +46,5 @@ The goal of this exercise is analyze a data set containing several CSVs of compe
 
 ## Submitting your exercise
 
-1. See [instructions for submitting your work](https://github.com/Enernite/hiring-exercises/blob/master/README.md#general-instructions)
+1. See [instructions for submitting your work](https://github.com/Enernite/hiring/tree/main/home-exercises/README.md#general-instructions)
+
