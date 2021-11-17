@@ -18,7 +18,7 @@ Ideally your solution would have some way to run locally and test the results so
 
 ---
 
-> :rotating_light: :exclamation: :point_right: **Please use one of the salary datasets provided here for either exercise [/shared/salary_datasets](/shared/salary_datasets)** :point_left: :exclamation: :rotating_light:
+> :rotating_light: :exclamation: :point_right: **Please use one of the salary datasets provided here for either exercise [/shared/salary_datasets](hiring/shared/salary_datasets)** :point_left: :exclamation: :rotating_light:
 
 ### Exercise A: Expose an API for querying compensation data
 
