@@ -66,4 +66,4 @@ The goal of this exercise is to design a highly normalized database schema for s
 
 ## Submitting your exercise
 
-1. See [instructions for submitting your work](https://github.com/Enernite/hiring/blob/main/README.md#general-instructions)
+1. See [instructions for submitting your work](https://github.com/Enernite/hiring/tree/main/home-exercises/README.md#general-instructions)
