@@ -5,7 +5,7 @@ Repository with home exercises, pair programming exercies and on-the-spot code c
 
 For current open positions, see <https://www.linkedin.com/company/enernite/jobs/> 👩‍💻
 
-### exercises 
+### Exercises 
 
 * [Home exercises](/home-exercises)
 
