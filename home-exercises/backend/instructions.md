@@ -18,7 +18,7 @@ Ideally your solution would have some way to run locally and test the results so
 
 ---
 
-> :rotating_light: :exclamation: :point_right: **Please use one of the salary datasets provided here for either exercise [/shared/salary_datasets](hiring/home-exercises/shared/salary_datasets/)** :point_left: :exclamation: :rotating_light:
+> :rotating_light: :exclamation: :point_right: **Please use one of the salary datasets provided here for either exercise [/shared/salary_datasets](/home-exercises/shared/salary_datasets/)** :point_left: :exclamation: :rotating_light:
 
 ### Exercise A: Expose an API for querying compensation data
 
@@ -33,7 +33,7 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 * fetch a single record via GET request
   * **Stretch Goal**: return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
 * have the JSON response be normalized into a uniform schema via a serializer or json template
-  * **Stretch Goal**: serialize more than one compensation [data set](/shared/salary_datasets)
+  * **Stretch Goal**: serialize more than one compensation [data set](/home-exercises/shared/salary_datasets/)
 
 ### A few quick notes on submitting Exercise A
 
@@ -46,7 +46,7 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 
 The goal of this exercise is to design a highly normalized database schema for storing compensation data
 
-* Create a schema for storing the compensation data provided in one of the [available data sets](/shared/salary_datasets). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **employee**, **role**, and anything else that makes sense for the data given.
+* Create a schema for storing the compensation data provided in one of the [available data sets](/home-exercises/shared/salary_datasets/). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **employee**, **role**, and anything else that makes sense for the data given.
 * Upload at least one dataset to the schema
   * **Stretch Goal**: upload all 3 salary datasets to the database schema
 * Validate that you can perform the following queries. You can export the results of these queries via CSV or attach screenshots of the the output
