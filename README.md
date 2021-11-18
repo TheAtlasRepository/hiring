@@ -12,3 +12,7 @@ For current open positions, see <https://www.linkedin.com/company/enernite/jobs/
 * [Pair programming](/shared/pair-programming)
 
 * [Code challenges](/shared/code-challenges)
+
+### Career Progression Framework
+
+* [Framework](/career-progression-framework)
