@@ -24,7 +24,7 @@ Submissions should be in the form of a [Jupyter notebook](https://jupyter.org/) 
 ---
 The goal of this exercise is analyze a data set containing several CSVs of compensation data submitted by individuals via Google Sheets. This data has not been modified in any way from the original source.
 
-* Clean and format all [3 compensation data CSVs](/shared/salary_datasets) to use a common set of fields/attributes/columns containing at least the following...
+* Clean and format all [3 compensation data CSVs](/home-exercises/shared/salary_datasets/) to use a common set of fields/attributes/columns containing at least the following...
   * Role/Title
   * Location
   * Salary (base compensation) in $US dollars with cents
