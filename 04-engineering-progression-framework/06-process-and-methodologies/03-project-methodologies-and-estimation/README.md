@@ -11,6 +11,7 @@ Is familiar with Agile processes and becoming more involved in their practice wi
 understands the purpose of most project ceremonies, while attending and contributing to them.
 regularly walks the project board during stand-ups.
 estimates tasks of simple complexity with reasonable accuracy.
+
 LVL 4 - Senior I, Senior II
 Well practiced with Agile, guiding others in Agile best-practices. Has established techniques for estimating work for themselves and others.
 
