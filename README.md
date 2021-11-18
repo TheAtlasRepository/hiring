@@ -7,11 +7,11 @@ For current open positions, see <https://www.linkedin.com/company/enernite/jobs/
 
 ### Exercises
 
-* [Code challenges](/shared/01-code-challenges)
+* [Code challenges](01-code-challenges)
 
 * [Home exercises](/02-home-exercises)
 
-* [Pair programming](/shared/03-pair-programming)
+* [Pair programming](/03-pair-programming)
 
 ### Career Progression Framework
 
