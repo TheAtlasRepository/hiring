@@ -1,4 +1,4 @@
-Documentation & Guidelines (iDOC)
+### Documentation & Guidelines (iDOC) ###
 
 > Writing clear, concise and appropriate forms of documentation, from code comments and JIRA tasks to wiki pages and guidelines. Providing effective ways to share their knowledge with others, including technical and non-technical documentation.
 

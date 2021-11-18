@@ -2,7 +2,7 @@
 
 This is an elective skill. You may choose this as one of your required quota from the focused technical category.
 
-Making sure our implementations are accessible to everyone regardless of disability or impairment, can be used with assistive technology, and follows WCAG guidelines.
+> Making sure our implementations are accessible to everyone regardless of disability or impairment, can be used with assistive technology, and follows WCAG guidelines.
 
 **LVL 2 - Engineer I**
 

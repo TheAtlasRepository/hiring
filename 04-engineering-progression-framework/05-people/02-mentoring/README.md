@@ -1,8 +1,6 @@
 ### Mentoring and recruitment (iMEN) ###
 
-Helping develop and support others through mentorship, line management, and career progression. Bringing new talent to Enernite and supporting the recruitment process.
-
-*line*
+> Helping develop and support others through mentorship, line management, and career progression. Bringing new talent to Enernite and supporting the recruitment process.
 
 **LVL 2 - Trainee, Engineer I**
 

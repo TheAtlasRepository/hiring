@@ -1,6 +1,6 @@
 ### Debugging & Technical Problem Solving (iDBG) ### 
 
-Determining the cause of technical problems and applying appropriate solutions.
+> Determining the cause of technical problems and applying appropriate solutions.
 
 *line*
 

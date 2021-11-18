@@ -1,6 +1,6 @@
 ### Communication (iCOM) ### 
 
-Sharing a suitable amount of information at the right time and listening to those around you.
+> Sharing a suitable amount of information at the right time and listening to those around you.
 
 **LVL 1 - Trainee**
 

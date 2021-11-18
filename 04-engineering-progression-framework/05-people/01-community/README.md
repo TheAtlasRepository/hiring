@@ -1,6 +1,6 @@
 ### Community ###
 
-Participating in and helping to build positive communities at Enernite. Representing and growing Enernite's engineering knowledge through involvement in groups outside of Enernite.
+> Participating in and helping to build positive communities at Enernite. Representing and growing Enernite's engineering knowledge through involvement in groups outside of Enernite.
 
 *line*
 

@@ -1,6 +1,6 @@
 ### Initiative & Innovation (iINN) ### 
 
-The ability to make positive changes outside of your assigned tasks - could be code, team, community or organisation level
+> The ability to make positive changes outside of your assigned tasks - could be code, team, community or organisation level
 
 **LVL 2 - Engineer I**
 

@@ -1,6 +1,6 @@
 ### Ownership & Responsibility (iOWN) ### 
 
-The areas of responsibility and ownership around teams, projects, internal and external relationships.
+> The areas of responsibility and ownership around teams, projects, internal and external relationships.
 
 **LVL 2 - Engineer I**
 

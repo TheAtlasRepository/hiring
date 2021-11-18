@@ -1,6 +1,6 @@
 ### Understanding the framework
 
-Our progression framework has been developed to help all software engineers know what's expected of them and what they need to do to further their careers at Enernite.
+> Our progression framework has been developed to help all software engineers know what's expected of them and what they need to do to further their careers at Enernite.
 
 ### Understanding the role requirements
 
