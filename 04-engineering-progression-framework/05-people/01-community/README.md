@@ -2,13 +2,15 @@
 
 > Participating in and helping to build positive communities at Enernite. Representing and growing Enernite's engineering knowledge through involvement in groups outside of Enernite.
 
-*line*
+---
 
 **LVL 2 - Engineer I**
 
 Involved in community events as a participant.
 
 participates in some community events, such as code practice sessions or Communities of Practice.
+
+---
 
 **LVL 3 - Engineer II**
 
@@ -19,6 +21,8 @@ buddies with new starters.
 offers occasional help to peers on others projects, such as answering technical questions in chat or helping a colleague on how to approach a problem.
 might be involved in user groups outside of Enernite as an attendee.
 
+---
+
 **LVL 4 - Senior I**
 
 Starting to lead and steer the focus of our events and actively encourage others to participate. Leading discussions on best practice and contributing to training initiatives.
@@ -28,6 +32,8 @@ contributes to training materials or plans.
 might be involved in support teams, either as part of the out-of-hours support team or for formal ad-hoc out-of-hours support for clients.
 might be involved with initiatives organised by the Marketing department to help promote Enernite and its technical expertise.
 might be involved in user groups outside of Enernite and actively shares topics with the Enernite engineering community.
+
+---
 
 **LVL 5T - Senior II, Principal**
 
@@ -41,6 +47,8 @@ curates training material around their main areas of expertise.
 advises on, creates, or delivers training programmes that increase our engineering competency, especially when adopting approaches new to our team.
 collaborates with other departments across Enernite to help define and improve ways of working.
 
+---
+
 **LVL 5M - TTL**
 
 Fosters knowledge sharing within their project team, and between their team and the rest of engineering. Leads by example by sharing experiences to wider audiences and encouraging others to do the same.
@@ -51,6 +59,8 @@ represents their team members and communicates their needs to a wider audience.
 proactively identifies and addresses issues surrounding team dynamics or conflicts and ensures they are escalated appropriately.
 sets the context for ensuring that project knowledge sharing is happening on a regular basis, both within the team boundaries and between the team and the engineering community.
 collaborates with other departments across Enernite to help define and improve ways of working.
+
+---
 
 **LVL 6M - SEM**
 
