@@ -40,7 +40,7 @@ Ideally your solution would have some way to run locally and visualize the resul
 ### As a HR-team member I want to
 
 * "Upload" a CSV/JSON file with my the compensation data of my current organization
-  * **NOTE**: You don't need to create an API around file storage/IO. Use any/all of the sample files in [/shared/salary_datasets](/shared/salary_datasets) or create your own simple faked data set.
+  * **NOTE**: You don't need to create an API around file storage/IO. Use any/all of the sample files in [/shared/salary_datasets](/home-exercises/shared/salary_datasets/) or create your own simple faked data set.
 * View the data in a simple tabular view
   * **stretch goal**: be able to sort or search by any unique identifiers (name, email, etc) so I can find specific rows
 * View simple visualization(s) of the distribution of salary compensation so I can get an overview/aggregate of overall compensation
