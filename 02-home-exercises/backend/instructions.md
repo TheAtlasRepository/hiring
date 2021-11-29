@@ -1,4 +1,4 @@
-# Welcome Backend-focused Product Exercise
+# 🤖 Backend-focused Product Exercise 🤖
 
 ```
 TIMEBOX:    2-4 hours max. We mean it! Set at timer and hard-stop at 4 hours ⏱
@@ -14,7 +14,7 @@ This exercise is to implement the best possible solution to one of the exercises
 
 Ideally your solution would have some way to run locally and test the results so we can fully analyze your efforts.
 
-## Choose **One** Of the following
+## 🤠 Choose **One** Of the following 🤠 
 
 ---
 
@@ -26,14 +26,15 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 
 #### User Story: As a developer I want to
 
-* list compensation data via API `GET` request
-  * List all data in the database
-  * **Stretch Goal**:Filter by one or more fields/attributes (e.g. `/compensation_data?salary[gte]=120000&zip_code=11201` )
-  * **Stretch Goal**:Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
-* fetch a single record via GET request
-  * **Stretch Goal**: return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
-* have the JSON response be normalized into a uniform schema via a serializer or json template
-  * **Stretch Goal**: serialize more than one compensation [data set](/home-exercises/shared/salary_datasets/)
+* Be able to recieve compensation data via the API in different formats
+  * list all data in the database via API `GET` request
+  * fetch a single record via GET request
+  * Sort by one or more fields/attributes (e.g. `/compensation_data?sort=last_name`)
+  * **Stretch Goal**: Filter by one or more fields/attributes (e.g. `/compensation_data?salary[gte]=120000&zip_code=11201` )
+  * **Stretch Goal**: Return a sparse fieldset (e.g. `/compensation_data?fields=first_name,last_name,salary`)
+* Recieve the data in a normalized form without modifying the original dataset
+  * have the JSON response be normalized into a uniform schema via a serializer or json template
+  * **Stretch Goal**: Serialize more than one compensation [data set](https://github.com/Enernite/hiring/tree/main/02-home-exercises/shared/salary_datasets/)
 
 ### A few quick notes on submitting Exercise A
 
@@ -46,24 +47,20 @@ The goal of this exercise is to design a read-only API (REST or GraphAPI) that r
 
 The goal of this exercise is to design a highly normalized database schema for storing compensation data
 
-* Create a schema for storing the compensation data provided in one of the [available data sets](/home-exercises/shared/salary_datasets/). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **employee**, **role**, and anything else that makes sense for the data given.
-* Upload at least one dataset to the schema
+#### User Story: As a developer I want to
+* Be able to query a populated salary database
+  * Create a schema for storing the compensation data provided in one of the [available data sets](https://github.com/Enernite/hiring/tree/main/02-home-exercises/shared/salary_datasets/). This schema should be in at least [3NF](https://en.wikipedia.org/wiki/Third_normal_form) with tables for **employee**, **role**, and anything else that makes sense for the data given.
+  * Upload at least one dataset to the schema
+  * Query and export (.csv) average compensation of roles where the role is some kind of engineer (hint: `ILIKE`)
+  * Query and export (.csv) average, min, and max compensation per city (if available in dataset)
   * **Stretch Goal**: upload all 3 salary datasets to the database schema
-* Validate that you can perform the following queries. You can export the results of these queries via CSV or attach screenshots of the the output
-  * Average compensation of roles where the role is some kind of engineer (hint: `ILIKE`)
-  * Average, min, and max compensation per city (if available in dataset)
-  * One interesting query of your choice (*average compensation by gender perhaps???*)
-* Create a quick database schema diagram
-  * Many admin tools and clients will allow you to generate these from your schema. If not possible, just draw a super-simple diagram in MS Paint or similar tool 🎨
+
+* Be able to inspect the database and its structure
+  * Create a simple database schema diagram. Use the tool of your preference, but don't worry about making the schema executable. A purely visual schema is enough.
+  * **Stretch Goal**: Perform one interesting query of your choice (*average compensation by gender perhaps???*)
 
 ### A few quick notes on submitting Exercise B
 
 * Ideally this exercise would use Postgres, but any SQL database is OK
 * Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
 * If you'd like to use a scripting language like Python along with an ORM to make this easier, thats fine with us!
-
----
-
-## Submitting your exercise
-
-1. See [instructions for submitting your work](https://github.com/Enernite/hiring/tree/main/home-exercises/README.md#general-instructions)
