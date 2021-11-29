@@ -1,7 +1,9 @@
-# hiring @ Enernite
 <p align="center">
-  <img height="300" src="https://energyinvented.com/wp-content/uploads/Kopi-av-Kopi-av-logoer-energy.invented-nettside-2.png">
+  <img height="200" src="https://energyinvented.com/wp-content/uploads/Kopi-av-Kopi-av-logoer-energy.invented-nettside-2.png">
 </p>
+
+
+# hiring @ Enernite
 
 Repository with home exercises, pair programming exercies and on-the-spot code challenges. 
 
