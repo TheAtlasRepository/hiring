@@ -12,9 +12,9 @@ Hello! If you are reading this then we're likely in the process chatting with yo
 
 In order to move forward, we'd like to know a little about how you work. To that end, this repository contains a set of **short, time-boxed** (approximately 1-4 hours max) that you can use demonstrate your skills and abilities.
 
-These are **NOT** *coding exercises*. The goal of these exercises is to give you an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer. We know that 4 hours is not a lot of time and you will both not be able to complete everything you'd like, and will feel pressure to do more. Please truly hold yourself to 4 hours max and make sure to create the `ROADMAP.md` file as outlined in the instructions below.
+These are **NOT** *coding exercises*. The goal of these exercises is to give you a medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer. We know that 4 hours is not a lot of time and you will both not be able to complete everything you'd like, and will feel pressure to do more. Please truly hold yourself to 4 hours max and make sure to create the `ROADMAP.md` file as outlined in the instructions below.
 
-## First, a few words about asynchronous/take-home exercises
+## First, a few words about take-home exercises
 
 The primary reasons we ask candidates of *all* levels to complete these exercises are as follows.
 
