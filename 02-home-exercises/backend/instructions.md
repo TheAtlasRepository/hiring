@@ -1,4 +1,4 @@
-# 🤖 Backend-focused Product Exercises 🤖
+# 🤖 Backend Product Exercises 🤖
 
 ```
 TIMEBOX:    2-4 hours max. We mean it! Set at timer and hard-stop at 4 hours ⏱
@@ -22,7 +22,7 @@ Ideally your solution would have some way to run locally and test the results so
 
 ### Exercise A: Expose an API for querying compensation data
 
-The goal of this exercise is to design a read-only API (REST or GraphAPI) that returns one or more records from static set of compensation data.
+The goal of this exercise is to design a read-only REST API that returns one or more records from static set of compensation data.
 
 #### User Story: As a developer I want to
 
