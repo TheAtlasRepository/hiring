@@ -1,4 +1,4 @@
-# 🤖 Backend-focused Product Exercise 🤖
+# 🤖 Backend-focused Product Exercises 🤖
 
 ```
 TIMEBOX:    2-4 hours max. We mean it! Set at timer and hard-stop at 4 hours ⏱
