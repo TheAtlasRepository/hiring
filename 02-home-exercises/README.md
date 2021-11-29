@@ -1,4 +1,6 @@
-![welcome logo!](https://www.enernite.com/images/logo.svg)
+<p align="center">
+  <img height="200" src="https://energyinvented.com/wp-content/uploads/Kopi-av-Kopi-av-logoer-energy.invented-nettside-2.png">
+</p>
 
 For current open positions, see <https://www.linkedin.com/company/enernite/jobs/> 👩‍💻
 
