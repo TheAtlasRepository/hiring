@@ -1,4 +1,4 @@
-# Welcome Frontend Product Exercise
+# 🥷 Frontend Product Exercises 🥷
 
 ```
 TIMEBOX:    2-4 hours max. We mean it!
@@ -14,41 +14,52 @@ This exercise is to implement the best possible solution to one of the exercises
 
 Ideally your solution would have some way to run locally and visualize the results in a browser so we can fully analyze the experience and not just the source code.
 
-# Choose One Of the following
+## 🤠 Choose **One** Of the following 🤠 
 
 --------------
 
-## Exercise A: Creating an offer
+## Exercise A: Use NASA's APOD REST API to create a photo gallery website
 
-### As a hiring manager I want to
+<p align="center">
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png">
+</p>
 
-* Create a a new offer of employement
-  * Specify the monetary compensation details of an offer (salary, equity, bonus, etc)
-  * Specify non-monetary compensation and benefits (culture, learning opportunities, etc)
-* See a list of the offers I've created
-* Share a link to an offer via a unique URL
+In this exercise, you will use [NASA's APOD REST API](https://api.nasa.gov/) to create a photo gallery website. You can either create your own free account to obtain the API-key, or ask us for one. 
 
-### As an employee receiving an offer I want to
 
-* View an offer that was sent to me
-  * **stretch goal**: Ask a question about the offer (ideally a subsection of the offer)
-* Understand the non-salary compensation I am being offered (stock valuation, value of healthcare benefits)
-* See detail about the role, team, and organization
 
-## Exercise B: Visualizing Compensation and Benefits
+### As a visitor of the NASA image gallery, I want to 
+* Be able to see the most recent images of the day in gallery format
+  * Query the API and recieve image data, date and explanation for each day
+  * Present the images in a gallery format with explanation and date
+  * Implement pagination for every new month of images
+* Be able to filter by date range, or get a random image
+  * **stretch goal:** Allow the user to specify date range and view all images from the selected range
+  * **stretch goal:** Allow the user to get a random image from the last year
 
-### As a HR-team member I want to
+### Visual reference for image gallery websites
+<p align="center">
+  <img height="600" src="https://uicookies.com/wp-content/uploads/2019/07/photo-gallery-website-templates-featured-image.jpg">
+</p>
 
-* "Upload" a CSV/JSON file with my the compensation data of my current organization
-  * **NOTE**: You don't need to create an API around file storage/IO. Use any/all of the sample files in [/shared/salary_datasets](/home-exercises/shared/salary_datasets/) or create your own simple faked data set.
-* View the data in a simple tabular view
-  * **stretch goal**: be able to sort or search by any unique identifiers (name, email, etc) so I can find specific rows
-* View simple visualization(s) of the distribution of salary compensation so I can get an overview/aggregate of overall compensation
-  * **stretch goal**: be able to visualize data across more than one dimension
+## Exercise B: Create a weather application using the MET API
 
----------
+<p align="center">
+  <img height="100" src="https://info.nrk.no/wp-content/uploads/2019/09/YR_blaa_rgb.png">
+</p>
 
-# Submitting your exercise
+In this exercise, you will use the [MET Weather REST API](https://api.met.no/) to create a weather forecasting website. The user should be able to enter coordinates for a location, and recieve the current weather and the forecast for the coming hours. You can either create your own free account to obtain the API-key, or ask us for one. 
 
-1. See [instructions for submitting your work](https://github.com/Enernite/hiring/tree/main/home-exercises/README.md#general-instructions)
+### As a visitor of the weather application, I want to 
+* Be able to see the current and future weather of the current day
+  * Query the API and recieve weather data in the frontend
+  * Create a form to input lat / lon coordinates for querying the API
+  * Present the result of the API query visually in the frontend
+  * **stretch goal:** Change the color of the website according to temperature, and add icons for different weather types
+* Be able to compare the weather in two locations
+  * **stretch goal:** Allow the user to query and compare two different locations
 
+### Visual reference for the weather application
+<p align="center">
+  <img height="600" src="https://miro.medium.com/max/1015/1*q5KRHj8fOUW51y2sqFKW1w.png">
+</p>
