@@ -41,6 +41,12 @@ The goal of this exercise is to design a read-only REST API that returns one or 
 * Don't worry about any web application concerns other than serializing JSON and returning via a GET request.
 * The example above (`/compensation_data`...) is not a contract. Feel free to design the URL structure and JSON schema that you believe creates the best client/consumer experience
 
+### Visual reference for the non-normalized API
+
+<p align="center">
+  <img align="center" height="600" src="https://user-images.githubusercontent.com/76901467/143889602-d79c8001-02d5-4eff-8cbc-3ef678d8ee30.png">
+</p>
+
 ---
 
 ## Exercise B: Database Design Exercise - Storing Compensation Data
@@ -64,3 +70,9 @@ The goal of this exercise is to design a highly normalized database schema for s
 * Ideally this exercise would use Postgres, but any SQL database is OK
 * Feel free to upload the entire SQL dump (with schema) of the populated database, or create a script that creates the schema and populates the database with one or more of the provided salary data CSVs. Please do whatever makes the most sense given the time alloted.
 * If you'd like to use a scripting language like Python along with an ORM to make this easier, thats fine with us!
+
+### Visual reference for the database schema
+
+<p align="center">
+  <img align="center" height="600" src="https://www.holistics.io/blog/content/images/2018/08/dbdiagram.io---diagram-only.png">
+</p>
