@@ -1,7 +1,7 @@
 # 🥷 Frontend Product Exercises 🥷
 
 ```
-TIMEBOX:    2-4 hours max. We mean it!
+TIMEBOX:    2 hours max. We mean it!
 LANGUAGES:  Javascript/Typescript
 FRAMEWORKS: React and any libraries you want
 TESTS:      nice to have, but not mandatory
@@ -63,3 +63,17 @@ In this exercise, you will use the [MET Weather REST API](https://api.met.no/) t
 <p align="center">
   <img height="600" src="https://miro.medium.com/max/1015/1*q5KRHj8fOUW51y2sqFKW1w.png">
 </p>
+
+
+## Exercise C: Create a map application with a buffer button using Typescript and MapBox.js
+
+In this exercise, you will utilize typescript / react to create a map application. Provided in the data folder is madagascar.geojson. In this application, you will use this file to visualize protected areas in madagascar, and create a button which allows the user to buffer the protected areas by 100m.
+
+<p align="center">
+  <img height="600" src="./madagascar.png">
+</p>
+
+The exercise consists of 3 main tasks:
+1. Visualize the data using mapbox.js
+2. Create a common geojson type, or use a previously defined one using typescript. Use this type to serialize the madagascar file.
+3. Create a button letting the user buffer the geojson by 100m and display it in the map as a new layer.
