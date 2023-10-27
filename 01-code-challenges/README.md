@@ -1,6 +1,6 @@
 ## Teknisk Oppgave
 
-I Enernite verdsetter vi kreativitet, og å gi individene muligheten til å bruke sine styrker på best mulig måte. Derfor ønsker vi å legge opp til de samme verdiene også under intervju.
+I Enernite verdsetter vi kreativitet, og å gi individene muligheten til å bruke sine styrker på best mulig måte. Derfor ønsker vi å legge opp til de samme verdiene også når vi gir ut tekniske oppgaver.
 
 I denne oppgaven får du kun utdelt en enkelt .csv fil, og det er kun ett enkelt krav:
 
